@@ -1,0 +1,2 @@
+# RLCD bot addcommand
+ 
